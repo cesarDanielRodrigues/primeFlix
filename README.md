@@ -1,6 +1,9 @@
 
 # PrimeFlix - Uma aplicação de filmes
 
+![GitHub repo size](https://img.shields.io/github/repo-size/cesarDanielRodrigues/primeFlix)
+![GitHub language count](https://img.shields.io/github/languages/count/cesarDanielRodrigues/primeFlix)
+
 ## Descrição
 
 PrimeFlix é uma aplicação web que permite aos usuários explorar e salvar seus filmes favoritos. Os usuários podem visualizar detalhes dos filmes, assistir aos trailers e salvar filmes em uma lista de favoritos para acessá-los posteriormente.
